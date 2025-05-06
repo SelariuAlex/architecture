@@ -3,7 +3,8 @@
 - [x] Prettier
 - [x] ESLint
 - [x] README
-- [ ] Task 4
+- [x] Vitest
+- [ ] Task 5
 
 # Markdown:
 
