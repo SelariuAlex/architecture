@@ -6,6 +6,11 @@
 - [x] Vitest
 - [ ] Task 5
 
+<!-- Update npm -->
+
+npm outdated
+npm update --save
+
 # Markdown:
 
 <!-- headings -->
